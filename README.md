@@ -9,7 +9,7 @@ There are three different scripts, meant for whatever interface you prefer.
 
 [apply-spotx-terminal](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx-terminal.sh) uses a TUI. Running it as an executable will not bring up a terminal window, and it must be run manually in the respective.
 
-[apply-spotx-yad](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx_yad.sh) uses a GUI, based on GTK. `yad` is required to be installed on the system for this to function.
+[apply-spotx-yad](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx_yad.sh) uses a GUI, based on GTK+. `yad` is required to be installed on the system for this to function.
 
 [apply-spotx-zenity](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx_zenity.sh) uses a GUI, based on GNOME. `zenity` is required to be installed on the system for this to function.
 
