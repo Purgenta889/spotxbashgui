@@ -1,5 +1,5 @@
 # SpotX-Bash GUI
-These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scripts to use solely for patching Spotify. They only have functionality for patching, and nothing more. This has only been tested on Linux, and may not work on macOS.
+These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scripts to use solely for patching Spotify. They only have functionality for patching, and nothing more.
 
 > [!NOTE]
 > **ALL** of these scripts were made using both ChatGPT and Google's Gemini. None of this code was written or reviewed by any person. If you run into any errors with these scripts, you are on your own for troubleshooting.
