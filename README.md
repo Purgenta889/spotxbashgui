@@ -1,5 +1,5 @@
 # SpotX-Bash GUI
-These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scripts to use solely for patching Spotify. Its only functions are as follows:
+These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scripts to use solely for patching Spotify. Their only functions are as follows:
 
 - Patching
 - Detecting if Spotify is already patched
