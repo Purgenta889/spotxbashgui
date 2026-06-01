@@ -1,5 +1,10 @@
 # SpotX-Bash GUI
-These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scripts to use solely for patching Spotify. They only have functionality for patching, and nothing more.
+These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scripts to use solely for patching Spotify. Its only functions are as follows:
+
+- Patching
+- Detecting if Spotify is already patched
+- Providing a log for you to optionally view (Zentiy & Yad)
+- Informing the user if an error preventing patching has occurred
 
 > [!NOTE]
 > **ALL** of these scripts were made using both ChatGPT and Google's Gemini. None of this code was written or reviewed by any person. If you run into any errors with these scripts, you are on your own for troubleshooting.
