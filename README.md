@@ -11,6 +11,16 @@ These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scr
 > [!NOTE]
 > **ALL** of these scripts were made using both ChatGPT and Google's Gemini. None of this code was written or reviewed by any person. If you run into any errors with these scripts, you are on your own for troubleshooting.
 
+## Download
+There are three different scripts, meant for whatever interface you prefer.
+
+[apply-spotx-terminal](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx-terminal.sh) uses a TUI. Running it as an executable will not bring up a terminal window, and it must be run manually in the respective.
+
+[apply-spotx-yad](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx_yad.sh) uses a GUI, based on GTK+. `yad` is required to be installed on the system for this to function.
+
+[apply-spotx-zenity](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx_zenity.sh) uses a GUI, based on GNOME. `zenity` is required to be installed on the system for this to function.
+
+
 ## Screenshots
 
 ### Terminal
@@ -21,12 +31,3 @@ These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scr
 
 ### Zenity
 <img width="495" height="321" alt="image" src="https://github.com/user-attachments/assets/8f6ec5f3-856f-46d0-aa1b-20c4b02f89d8" />
-
-## Scripts
-There are three different scripts, meant for whatever interface you prefer.
-
-[apply-spotx-terminal](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx-terminal.sh) uses a TUI. Running it as an executable will not bring up a terminal window, and it must be run manually in the respective.
-
-[apply-spotx-yad](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx_yad.sh) uses a GUI, based on GTK+. `yad` is required to be installed on the system for this to function.
-
-[apply-spotx-zenity](https://github.com/Purgenta889/spotxbashgui/blob/main/apply-spotx_zenity.sh) uses a GUI, based on GNOME. `zenity` is required to be installed on the system for this to function.
