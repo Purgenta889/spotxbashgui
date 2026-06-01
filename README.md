@@ -6,6 +6,8 @@ These are several [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) scr
 - Providing a log for you to optionally view (Zentiy & Yad)
 - Informing the user if an error preventing patching has occurred
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Purgenta889/spotxbashgui)
+
 > [!NOTE]
 > **ALL** of these scripts were made using both ChatGPT and Google's Gemini. None of this code was written or reviewed by any person. If you run into any errors with these scripts, you are on your own for troubleshooting.
 
